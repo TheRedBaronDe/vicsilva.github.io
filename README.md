@@ -33,6 +33,10 @@ trends that informed business improvement strategies.
 
 The data in this file is a large collection (7,461,195 rows) of ultra-marathon race records registered between 1798 and 2022 (a period of well over two centuries) being therefore a formidable long term sample. All data was obtained from public websites.
 
+[UM Analysis](/assets/img/Ultra Marathon Analysis.png)
+
+[UM Analysis, II](/assets/img/Ultra Marathon Analysis, II.png)
+
 ## Languages
 
 Portuguese - First Language | English - C1 (Advanced) | German - B1 (Intermediate) 
