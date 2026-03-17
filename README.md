@@ -1,12 +1,39 @@
 # Data Analyst
 
-### About
+São Paulo, Brazil
 
-TBA
+## Technical Skills
 
-### Experience
+Python (lists, disctionaries, strings)
 
-I have experience cleaning and organising big datasets (> 5M rows) using SQL and Pandas, as well as in creating charts and dashboards using Python, Tableau and Excel/Google Sheets.
+Pandas, Numpy
 
-### Projects
+SQL (JOINS, SELECT, GROUP BY, AGGREGATE)
 
+Data Visualisation (Tableau, Matploblib, Seaborn, Power BI)
+
+Excel, Google Sheets
+
+## Experience
+
+Junior Data Analyst -  2025, current (Freelance) 
+
+● Analysed large datasets (> 7M rows) using SQL and Python (Pandas, NumPy) to uncover 
+trends that informed business improvement strategies. 
+
+● Designed interactive dashboards and reports using Tableau, Excel, and Google Sheets. 
+
+## Projects
+
+###Two Centuries of Ultra Marathon Races
+[Publication] (https://github.com/TheRedBaronDe/Portfolio/tree/main/TwoCenturiesOfUMRaces)
+
+The data in this file is a large collection (7,461,195 rows) of ultra-marathon race records registered between 1798 and 2022 (a period of well over two centuries) being therefore a formidable long term sample. All data was obtained from public websites.
+
+## Languages
+
+Portuguese - First Language | English - C1 (Advanced) | German - B1 (Intermediate) 
+
+## Contact
+
+vicsilva.de@gmail.com
