@@ -25,8 +25,9 @@ trends that informed business improvement strategies.
 
 ## Projects
 
-###Two Centuries of Ultra Marathon Races
-[Publication] (https://github.com/TheRedBaronDe/Portfolio/tree/main/TwoCenturiesOfUMRaces)
+### Two Centuries of Ultra Marathon Races
+
+[Publication](https://github.com/TheRedBaronDe/Portfolio/tree/main/TwoCenturiesOfUMRaces)
 
 The data in this file is a large collection (7,461,195 rows) of ultra-marathon race records registered between 1798 and 2022 (a period of well over two centuries) being therefore a formidable long term sample. All data was obtained from public websites.
 
