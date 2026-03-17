@@ -1,6 +1,7 @@
 # Data Analyst
 
 [Tableau](https://public.tableau.com/app/profile/vicsilva42/vizzes)
+
 [LinkedIn](https://www.linkedin.com/in/vicsilva42/)
 
 ## Technical Skills
