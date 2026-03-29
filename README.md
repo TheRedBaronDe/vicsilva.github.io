@@ -37,6 +37,10 @@ The data in this file is a large collection (7,461,195 rows) of ultra-marathon r
 
 ![UM Analysis, II](/assets/img/UltraMarathonAnalysisII.png)
 
+### Walmart Sales Dashboard (Power BI)
+
+![Dashboard](/assets/img/WalmartSalesDashboard.pdf)
+
 ## Languages
 
 Portuguese - First Language | English - C1 (Advanced) | German - B1 (Intermediate) 
