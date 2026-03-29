@@ -39,7 +39,7 @@ The data in this file is a large collection (7,461,195 rows) of ultra-marathon r
 
 ### Walmart Sales Dashboard (Power BI)
 
-![Dashboard](/assets/img/WalmartSalesDashboard.pdf)
+![Dashboard](/assets/img/WalmartSalesDashboard.png)
 
 ## Languages
 
