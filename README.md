@@ -12,9 +12,9 @@ Pandas, Numpy
 
 SQL (JOINS, SELECT, GROUP BY, AGGREGATE)
 
-Data Visualisation (Tableau, Matploblib, Seaborn, Power BI)
+Data Visualisation (Tableau, Matploblib, Seaborn, Power BI/DAX)
 
-Excel, Google Sheets
+Excel (Pivot Tables, Macros), Google Sheets
 
 ## Experience
 
