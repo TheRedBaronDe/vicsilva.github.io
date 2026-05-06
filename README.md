@@ -27,21 +27,21 @@ trends that informed business improvement strategies.
 
 ## Projects
 
-### Two Centuries of Ultra Marathon Races
+### COVID-19 Monthly Hospitalization Rates
+![Dashboard](/assets/img/COVID19MHR.png)
 
-[Publication](https://github.com/TheRedBaronDe/Portfolio/tree/main/TwoCenturiesOfUMRaces)
+Original Kaggle dataset: https://www.kaggle.com/datasets/lalit7881/covid-19-monthly-hospitalization-rates
 
-The data in this file is a large collection (7,461,195 rows) of ultra-marathon race records registered between 1798 and 2022 (a period of well over two centuries) being therefore a formidable long term sample. All data was obtained from public websites.
+Key insights:
 
-![UM Analysis](/assets/img/UltraMarathonAnalysis.png)
+Hospitalization rates peaked in early 2022 and declined afterward
 
-![UM Analysis, II](/assets/img/UltraMarathonAnalysisII.png)
+Older populations, particularly ages 75–84, experienced the highest hospitalization rates
+
 
 ### Walmart Sales Dashboard (Power BI)
 
 ![Dashboard](/assets/img/WalmartSalesDashboard.png)
-
-Tools: PowerBI 
 
 Which month performs best?
 July (650M in sales)
