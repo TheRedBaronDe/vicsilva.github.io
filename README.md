@@ -41,6 +41,19 @@ The data in this file is a large collection (7,461,195 rows) of ultra-marathon r
 
 ![Dashboard](/assets/img/WalmartSalesDashboard.png)
 
+Tools: PowerBI 
+
+Which month performs best?
+July (650M in sales)
+
+Key insights:
+
+Sales peak mid-year
+
+Holidays increase average sales
+
+Revenue is concentrated in top stores
+
 ## Languages
 
 Portuguese - First Language | English - C1 (Advanced) | German - B1 (Intermediate) 
