@@ -3,8 +3,9 @@ layout: default
 title: Victoria Silva
 ---
 
-<div align="center">
-  <img src="/assets/img/ProfileRound.png" width="200" style="border-radius: 50%;">
+<div align="center" style="margin-top: 20px;">
+  <img src="assets/img/ProfileRound.png" alt="Victoria Silva" width="200" style="border-radius: 50%; border: 2px solid #eeeeee;">
+  <h1 style="margin-top: 10px;">Victoria Silva</h1>
   <p>Junior Data Analyst | SQL | Python | Power BI</p>
 </div>
 
