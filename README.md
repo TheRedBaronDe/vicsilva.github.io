@@ -27,18 +27,6 @@ trends that informed business improvement strategies.
 
 ## Projects
 
-### COVID-19 Monthly Hospitalization Rates
-![Dashboard](/assets/img/COVID19MHR.png)
-
-Original Kaggle dataset: https://www.kaggle.com/datasets/lalit7881/covid-19-monthly-hospitalization-rates
-
-Key insights:
-
-Hospitalization rates peaked in early 2022 and declined afterward
-
-Older populations, particularly ages 75–84, experienced the highest hospitalization rates
-
-
 ### Walmart Sales Dashboard (Power BI)
 
 ![Dashboard](/assets/img/WalmartSalesDashboard.png)
@@ -53,6 +41,18 @@ Sales peak mid-year
 Holidays increase average sales
 
 Revenue is concentrated in top stores
+
+
+### COVID-19 Monthly Hospitalization Rates
+![Dashboard](/assets/img/COVID19MHR.png)
+
+Original Kaggle dataset: https://www.kaggle.com/datasets/lalit7881/covid-19-monthly-hospitalization-rates
+
+Key insights:
+
+Hospitalization rates peaked in early 2022 and declined afterward
+
+Older populations, particularly ages 75–84, experienced the highest hospitalization rates
 
 ## Languages
 
