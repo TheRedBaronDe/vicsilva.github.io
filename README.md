@@ -1,7 +1,5 @@
 # Data Analyst
 
-[LinkedIn](https://www.linkedin.com/in/vicsilva42/)
-
 ## Technical Skills
 
 Python - Pandas, NumPy, Seaborn, Matplotlib
@@ -11,17 +9,6 @@ SQL (JOINS, SELECT, GROUP BY, AGGREGATE, ROW_NUMBER)
 Data Visualisation (Power BI/DAX, Tableau Public)
 
 Excel (Pivot Tables, Macros), Google Sheets
-
-## Experience
-
-● Analysed large datasets (> 7M rows) using SQL and Python (Pandas, NumPy) to uncover 
-trends that informed business improvement strategies
-
-● Built a dashboard analyzing $6.74B in retail sales data across multiple stores
-
-● Identified seasonal revenue patterns and a 7.84% increase in holiday sales performance
-
-● Developed KPI visualizations and trend analysis for case monitoring and temporal insights
 
 ## Projects
 
@@ -73,6 +60,21 @@ Older populations, particularly ages 75–84, experienced the highest hospitaliz
 
 The dashboard enables rapid monitoring of pandemic trends and supports data-driven interpretation through visual analytics.
 
+## Experience
+
+● Analysed large datasets (> 7M rows) using SQL and Python (Pandas, NumPy) to uncover 
+trends that informed business improvement strategies
+
+● Built a dashboard analyzing $6.74B in retail sales data across multiple stores
+
+● Identified seasonal revenue patterns and a 7.84% increase in holiday sales performance
+
+● Developed KPI visualizations and trend analysis for case monitoring and temporal insights
+
+**AI Trainer:**
+
+
+
 ## Languages
 
 Portuguese - First Language | English - C1 (Advanced) | German - B1 (Intermediate) 
@@ -80,3 +82,5 @@ Portuguese - First Language | English - C1 (Advanced) | German - B1 (Intermediat
 ## Contact
 
 vicsilva.de@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/vicsilva42/)
