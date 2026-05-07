@@ -86,3 +86,5 @@ Portuguese - First Language | English - C1 (Advanced) | German - B1 (Intermediat
 vicsilva.de@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/vicsilva42/)
+
+[Tableau](https://public.tableau.com/app/profile/vicsilva42/vizzes)
