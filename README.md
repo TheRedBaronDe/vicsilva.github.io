@@ -1,29 +1,25 @@
 # Data Analyst
 
-[Tableau](https://public.tableau.com/app/profile/vicsilva42/vizzes)
-
 [LinkedIn](https://www.linkedin.com/in/vicsilva42/)
 
 ## Technical Skills
 
-Python (lists, disctionaries, strings)
+Python - Pandas, NumPy, Seaborn, Matplotlib
 
-Pandas, Numpy
+SQL (JOINS, SELECT, GROUP BY, AGGREGATE, ROW_NUMBER)
 
-SQL (JOINS, SELECT, GROUP BY, AGGREGATE)
-
-Data Visualisation (Tableau, Matploblib, Seaborn, Power BI/DAX)
+Data Visualisation (Power BI/DAX, Tableau Public)
 
 Excel (Pivot Tables, Macros), Google Sheets
 
 ## Experience
 
-Junior Data Analyst -  2025, current (Freelance) 
-
 ● Analysed large datasets (> 7M rows) using SQL and Python (Pandas, NumPy) to uncover 
 trends that informed business improvement strategies. 
 
-● Designed interactive dashboards and reports using Tableau, Excel, and Google Sheets. 
+● Built a dashboard analyzing $6.74B in retail sales data across multiple stores
+
+● Identified seasonal revenue patterns and a 7.84% increase in holiday sales performance
 
 ## Projects
 
@@ -31,24 +27,36 @@ trends that informed business improvement strategies.
 
 ![Dashboard](/assets/img/WalmartSalesDashboard.png)
 
-Which month performs best?
-July (650M in sales)
+Developed a Power BI dashboard to analyze retail sales performance across stores, seasonal trends, and holiday periods.
 
-Key insights:
+**Tools: Power BI, DAX**
 
-Sales peak mid-year
+**Key Insights:**
 
-Holidays increase average sales
+Strong seasonality patterns, with revenue peaking during mid-year months, with July performing the best (650M sales)
 
-Revenue is concentrated in top stores
+Significant sales decline in January and November
 
+Holiday periods generated approximately 7.84% higher average weekly sales compared to non-holiday periods
+
+Revenue is concentrated in top stores, with Store 20 achieving the highest total revenue
+
+**Business Recommendations:**
+
+● Increase inventory planning before high-performing months
+
+● Investigate causes of weak January sales performance
+
+**Business Impact:**
+
+The dashboard enables quick monitoring of sales trends, store performance, and holiday revenue fluctuations to support data-driven business decisions.
 
 ### COVID-19 Monthly Hospitalization Rates
 ![Dashboard](/assets/img/COVID19MHR.png)
 
-Original Kaggle dataset: https://www.kaggle.com/datasets/lalit7881/covid-19-monthly-hospitalization-rates
+**Original Kaggle dataset:** https://www.kaggle.com/datasets/lalit7881/covid-19-monthly-hospitalization-rates
 
-Key insights:
+**Key Insights:**
 
 Hospitalization rates peaked in early 2022 and declined afterward
 
