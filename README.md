@@ -1,4 +1,4 @@
-# Data Analyst
+# Junior Data Analyst
 
 Data Analyst focused on turning data into meaningful business insights through dashboard development, KPI analysis, and data visualization. Experienced with Power BI, SQL, Python, and exploratory data analysis projects.
 
@@ -88,7 +88,7 @@ trends that informed business improvement strategies
 
 ## Languages
 
-Portuguese - First Language | English - C1 (Advanced) | German - B1 (Intermediate) 
+Portuguese - First Language | English - C1 (Advanced) | German - A2 (Pre-intermediate) 
 
 ## Contact
 
