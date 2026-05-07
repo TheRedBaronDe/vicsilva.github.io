@@ -21,9 +21,11 @@ trends that informed business improvement strategies.
 
 ● Identified seasonal revenue patterns and a 7.84% increase in holiday sales performance
 
+● Developed KPI visualizations and trend analysis for case monitoring and temporal insights
+
 ## Projects
 
-### Walmart Sales Dashboard (Power BI)
+### Business Analytics - Walmart Sales Dashboard
 
 ![Dashboard](/assets/img/WalmartSalesDashboard.png)
 
@@ -51,16 +53,25 @@ Revenue is concentrated in top stores, with Store 20 achieving the highest total
 
 The dashboard enables quick monitoring of sales trends, store performance, and holiday revenue fluctuations to support data-driven business decisions.
 
-### COVID-19 Monthly Hospitalization Rates
+
+### Public Data Analytics - COVID-19 Monthly Hospitalization Rates
 ![Dashboard](/assets/img/COVID19MHR.png)
+
+Built a dashboard analyzing COVID-19 trends and public health indicators using real-world datasets.
 
 **Original Kaggle dataset:** https://www.kaggle.com/datasets/lalit7881/covid-19-monthly-hospitalization-rates
 
+**Tools used: Jupyter Notebook, Postgresql, Power BI/DAX**
+
 **Key Insights:**
 
-Hospitalization rates peaked in early 2022 and declined afterward
+Major peaks, specially in early 2022 and declines in infection trends over time
 
 Older populations, particularly ages 75–84, experienced the highest hospitalization rates
+
+**Analytical Value:**
+
+The dashboard enables rapid monitoring of pandemic trends and supports data-driven interpretation through visual analytics.
 
 ## Languages
 
