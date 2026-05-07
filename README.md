@@ -1,5 +1,7 @@
 # Data Analyst
 
+Data Analyst focused on turning data into meaningful business insights through dashboard development, KPI analysis, and data visualization. Experienced with Power BI, SQL, Python, and exploratory data analysis projects.
+
 ## Technical Skills
 
 Python - Pandas, NumPy, Seaborn, Matplotlib
