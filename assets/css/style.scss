@@ -1,11 +1,15 @@
 header {
-  position: relative !important;
-  height: auto !important;
-  padding-bottom: 20px;
+  height: auto !important; 
+  padding-bottom: 40px !important;
 }
 
 #project_info {
-  clear: both;
-  display: block;
-  margin-top: 30px;
+  position: static !important; 
+  display: block !important;
+  margin-top: 20px !important;
+  clear: both !important;
+}
+
+#downloads {
+  display: none !important; 
 }
