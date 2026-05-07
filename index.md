@@ -31,7 +31,7 @@ Excel (Pivot Tables, Macros), Google Sheets
 
 Developed a Power BI dashboard to analyze retail sales performance across stores, seasonal trends, and holiday periods.
 
-**Tools: Power BI, DAX**
+**Tools: Power BI/DAX**
 
 **Key Insights:**
 
@@ -61,7 +61,7 @@ Built a dashboard analyzing COVID-19 trends and public health indicators using r
 
 **Original Kaggle dataset:** https://www.kaggle.com/datasets/lalit7881/covid-19-monthly-hospitalization-rates
 
-**Tools used: Jupyter Notebook, Postgresql, Power BI/DAX**
+**Tools used: Jupyter Notebook, PostgreSQL, Power BI/DAX**
 
 **Key Insights:**
 
