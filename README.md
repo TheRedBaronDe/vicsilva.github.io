@@ -75,6 +75,15 @@ trends that informed business improvement strategies
 
 **AI Trainer:**
 
+● Designed and executed prompt engineering tasks to evaluate AI behavior across different conversational scenarios and objectives
+
+● Reviewed AI-generated responses for factual accuracy, consistency, quality, and policy compliance
+
+● Compared and analyzed outputs from multiple AI models to identify performance differences and response quality issues
+
+● Conducted quality assurance reviews on annotation tasks completed by other contributors
+
+● Managed high-volume evaluation tasks while meeting strict productivity and time-based performance targets
 
 
 ## Languages
