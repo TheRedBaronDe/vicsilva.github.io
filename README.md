@@ -15,7 +15,7 @@ Excel (Pivot Tables, Macros), Google Sheets
 ## Experience
 
 ● Analysed large datasets (> 7M rows) using SQL and Python (Pandas, NumPy) to uncover 
-trends that informed business improvement strategies. 
+trends that informed business improvement strategies
 
 ● Built a dashboard analyzing $6.74B in retail sales data across multiple stores
 
