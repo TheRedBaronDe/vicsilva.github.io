@@ -107,4 +107,6 @@ vicsilva.de@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/vicsilva42/)
 
+[Github](https://github.com/TheRedBaronDe/Portfolio)
+
 [Tableau](https://public.tableau.com/app/profile/vicsilva42/vizzes)
